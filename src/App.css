@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+    --color-primary: #2c2c2b;
+    --color-secondary: #ceb465;
+    --color-tertiary: #e8daad;
+    
+
+  --font-sofia: "Sofia", sans-serif;
+  --font-playfair: "Playfair Display", serif;
+  --font-dancing: "Dancing Script", cursive;
+}
+
+/* @layer base {
+    html {
+        font-family: Montserrat, system-ui, sans-serif;
+    }
+} */
